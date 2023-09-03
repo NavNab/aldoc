@@ -1,0 +1,32 @@
+{
+  "id": "3c19f0c9-a6c5-4465-9e59-c5afeeae879d",
+  "name": "AL Doc Example",
+  "publisher": "NavNab",
+  "version": "1.0.0.0",
+  "brief": "This app is used to test AL Doc.",
+  "description": "Some random description for the AL Doc Example app.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
