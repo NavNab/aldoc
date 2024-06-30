@@ -1,7 +1,7 @@
 /// <summary>
 /// This setup table is used to enable or disable the Awesome Feature.
 /// </summary>
-table 50100 "Awsome Feature Setup"
+table 50100 "Awesome Feature Setup"
 {
     DataClassification = ToBeClassified;
 

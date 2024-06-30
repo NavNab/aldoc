@@ -4,7 +4,7 @@ page 50100 "Awesome Feature Setup"
     PageType = Card;
     ApplicationArea = All;
     UsageCategory = Administration;
-    SourceTable = "Awsome Feature Setup";
+    SourceTable = "Awesome Feature Setup";
 
     layout
     {
