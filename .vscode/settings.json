@@ -1,6 +1,6 @@
 {
     "[al]": {
-      "editor.wordBasedSuggestions": false,
+      "editor.wordBasedSuggestions": "off",
       "editor.suggestSelection": "first",
       "editor.formatOnSave": true,
       "editor.semanticHighlighting.enabled": true
